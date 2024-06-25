@@ -1,6 +1,5 @@
 ### Olá, eu sou o Gabriel Teodoro 👋
 
-- 🔭 Atualmente estou trabalhando em uma Fábrica de condutores de energia na função de Auxiliar de PCP.
 - 🎓 Estou cursando Sistemas para Internet.
 - 💻 Estou fazendo um Curso Full Stack da CoderHouse Brasil.
 - 📖 Estou em busca da transição de carreira, e poder trabalhar na área tech como sempre foi meu sonho.
