@@ -1,7 +1,6 @@
 ### Olá, eu sou o Gabriel Teodoro 👋
 
 - 🎓 Estou cursando Sistemas para Internet.
-- 💻 Estou fazendo um Curso Full Stack da CoderHouse Brasil.
 - 📖 Estou em busca da transição de carreira, e poder trabalhar na área tech como sempre foi meu sonho.
 <div style="display: inline_block"><br>
     <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
